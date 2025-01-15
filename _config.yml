@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ximu Zeng"
-  avatar           : "images/my_square_avatar.jpg"
+  avatar           : "images/my_square_avatar.png"
   bio              : "PhD Student, UESTC"
   location         : "ChengDu, China"
   employer         :
