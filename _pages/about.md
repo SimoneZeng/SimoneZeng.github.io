@@ -17,42 +17,63 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm now a PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
+Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include spatial-temporal data mining, spatial crowdsourcing, and vector approximinate nearest neighbor search.
+
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
-</div>
+</div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Selected Conference Papers**
+
+- **\[VLDB 2025\]** Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. 
+- **\[DASFAA 2024\]** Rui Hu, Yuze Wang, Ximu Zeng, Shuncheng Liu, Quanlin Yu, Peicong Wu, Han Su, and Kai Zheng. Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving. 
+- **\[CIKM 2023\]** **Ximu Zeng**, Quanlin Yu, Shuncheng Liu, Yuyang Xia, Han Su, and Kai Zheng. Target-Oriented Maneuver Decision for Autonomous Vehicle: A Rule-Aided Reinforcement Learn-ing Framework. 
+- **\[DASFAA 2023\]** Weijie Lian, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Yuyang Xia, Huiyong Tang, and Han Su. EGL: Efficient Graph Learning with Safety Constrains for Heterogeneous Trajectory Prediction. 
+- **\[DASFAA 2022\]** Xu Chen, **Ximu Zeng**, Shuncheng Liu, Zhi Xu, Yuyang Xia, Ruyi Lai, and Han Su. TSummary: A Traffic Summarization System Using Semantic Words.
+- **\[DASFAA 2022\]** Yupeng Diao, Yiteng Su, **Ximu Zeng**, Xu Chen, Shuncheng Liu, and Han Su. Astral: An Autoencoder-Based Model for Pedestrian Trajectory Prediction of Variable-Length.
+
+
+**Under Review**
+- **\[ICDE 2025\]** **Ximu Zeng**, Jianxing Lin, Liwei Deng, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsourcing. 
+- **\[WWW 2025\]** **Ximu Zeng**, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search. 
+- **\[ICDE 2025\]** Liwei Deng, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Sep,2018 - Jun,2022*, Chongqing University of Posts and Telecommunications, Bachelor
+  - Data Science and Big Data Technology, School of Computer Science and Technology
+- *Sep,2022 - Jun,2024*, University of Electronic Science and Technology of China, Master's candidate
+  - Computer Science and Technology, School of Computer Science and Engineering
+- *Sep,2024 - present*, University of Electronic Science and Technology of China, Ph.D
+  - Computer Science and Technology, School of Computer Science and Engineering
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Honors and Awards
+- 2024 Academic Seedling Award, 5\%, UESTC
+- 2022 Outstanding Undergraduate, Chongqing Municipal Education Commission
+- 2021 Merit Student, Chongqing Municipal Education Commission
+- 2021 National Scholarship
+
+
+# ⏳ Professional Services
+- 2025: WWW
