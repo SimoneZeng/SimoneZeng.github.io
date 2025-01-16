@@ -69,7 +69,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 
 
 # 🎖 Honors and Awards
-- 2024 Academic Seedling Award, 5\%, UESTC
+- 2024 Academic Seedling Award, 5%, UESTC
 - 2022 Outstanding Undergraduate, Chongqing Municipal Education Commission
 - 2021 Merit Student, Chongqing Municipal Education Commission
 - 2021 National Scholarship
