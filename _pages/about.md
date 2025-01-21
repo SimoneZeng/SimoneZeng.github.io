@@ -49,7 +49,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 
 - **\[WWW 2025\]** **Ximu Zeng**, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search. 
 - **\[VLDB 2025\]** Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. 
-- **\[DASFAA 2024\]** Rui Hu, Yuze Wang, Ximu Zeng, Shuncheng Liu, Quanlin Yu, Peicong Wu, Han Su, and Kai Zheng. Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving. 
+- **\[DASFAA 2024\]** Rui Hu, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Quanlin Yu, Peicong Wu, Han Su, and Kai Zheng. Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving. 
 - **\[CIKM 2023\]** **Ximu Zeng**, Quanlin Yu, Shuncheng Liu, Yuyang Xia, Han Su, and Kai Zheng. Target-Oriented Maneuver Decision for Autonomous Vehicle: A Rule-Aided Reinforcement Learn-ing Framework. 
 - **\[DASFAA 2023\]** Weijie Lian, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Yuyang Xia, Huiyong Tang, and Han Su. EGL: Efficient Graph Learning with Safety Constrains for Heterogeneous Trajectory Prediction. 
 - **\[DASFAA 2022\]** Xu Chen, **Ximu Zeng**, Shuncheng Liu, Zhi Xu, Yuyang Xia, Ruyi Lai, and Han Su. TSummary: A Traffic Summarization System Using Semantic Words.
