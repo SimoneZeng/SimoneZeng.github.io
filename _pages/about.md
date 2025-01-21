@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm now a PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
+I'm currently a PhD student admitted in 2024 at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
 Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
 
 My research interests include spatial-temporal data mining, spatial crowdsourcing, and vector approximinate nearest neighbor search.
