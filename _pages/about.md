@@ -26,7 +26,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
+- *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
 
 # 📝 Publications 
