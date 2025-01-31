@@ -20,7 +20,7 @@ redirect_from:
 I'm currently a PhD student admitted in 2024 at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
 Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
 
-My research interests include spatial-temporal data mining, spatial crowdsourcing, and vector approximinate nearest neighbor search.
+My research interests include spatial-temporal data mining, spatial crowdsourcing, and vector approximate nearest neighbor search.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -50,7 +50,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 - **\[WWW 2025\]** **Ximu Zeng**, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search. 
 - **\[VLDB 2025\]** Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. 
 - **\[DASFAA 2024\]** Rui Hu, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Quanlin Yu, Peicong Wu, Han Su, and Kai Zheng. Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving. 
-- **\[CIKM 2023\]** **Ximu Zeng**, Quanlin Yu, Shuncheng Liu, Yuyang Xia, Han Su, and Kai Zheng. Target-Oriented Maneuver Decision for Autonomous Vehicle: A Rule-Aided Reinforcement Learn-ing Framework. 
+- **\[CIKM 2023\]** **Ximu Zeng**, Quanlin Yu, Shuncheng Liu, Yuyang Xia, Han Su, and Kai Zheng. Target-Oriented Maneuver Decision for Autonomous Vehicle: A Rule-Aided Reinforcement Learning Framework. 
 - **\[DASFAA 2023\]** Weijie Lian, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Yuyang Xia, Huiyong Tang, and Han Su. EGL: Efficient Graph Learning with Safety Constrains for Heterogeneous Trajectory Prediction. 
 - **\[DASFAA 2022\]** Xu Chen, **Ximu Zeng**, Shuncheng Liu, Zhi Xu, Yuyang Xia, Ruyi Lai, and Han Su. TSummary: A Traffic Summarization System Using Semantic Words.
 - **\[DASFAA 2022\]** Yupeng Diao, Yiteng Su, **Ximu Zeng**, Xu Chen, Shuncheng Liu, and Han Su. Astral: An Autoencoder-Based Model for Pedestrian Trajectory Prediction of Variable-Length.
