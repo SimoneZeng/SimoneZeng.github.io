@@ -26,6 +26,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
 
@@ -47,6 +48,8 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 
 **Selected Conference Papers**
 
+- **[ICDE 2025]** **Ximu Zeng**, Jianxing Lin, Liwei Deng, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing.
+- **[ICDE 2025]** Liwei Deng, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search.
 - **\[WWW 2025\]** **Ximu Zeng**, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search. 
 - **\[VLDB 2025\]** Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search. 
 - **\[DASFAA 2024\]** Rui Hu, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Quanlin Yu, Peicong Wu, Han Su, and Kai Zheng. Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving. 
