@@ -53,7 +53,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 <span style="color:red">**(CCF A)**</span>
 
 - <span style="color:blue">[ICDE 2025]</span> 
-**Liwei Deng**, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. 
+Liwei Deng, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. 
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/Ur-Eine/distribution-aware-LSH?label=LSH%20Stars&style=social)](https://github.com/Ur-Eine/distribution-aware-LSH)
 
 - <span style="color:blue">[WWW 2025]</span> 
@@ -61,7 +61,7 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/SimoneZeng/LIRA-ANN-search?label=LIRA%20Stars&style=social)](https://github.com/SimoneZeng/LIRA-ANN-search)
 
 - <span style="color:blue">[VLDB 2025]</span> 
-**Liwei Deng**, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. [Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search](https://arxiv.org/abs/2411.17229). 
+Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. [Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search](https://arxiv.org/abs/2411.17229). 
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/Ur-Eine/DADE?label=DADE%20Stars&style=social)](https://github.com/Ur-Eine/DADE)
 
 - <span style="color:blue">[DASFAA 2024]</span> 
