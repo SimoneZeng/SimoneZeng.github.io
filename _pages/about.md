@@ -49,19 +49,19 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 **Selected Conference Papers**
 
 - <span style="color:blue">[ICDE 2025]</span> 
-**Ximu Zeng**, Jianxing Lin, Liwei Deng, Yuchen Fang, Yan Zhao, Kai Zheng. Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing. 
+**Ximu Zeng**, Jianxing Lin, Liwei Deng, Yuchen Fang, Yan Zhao, Kai Zheng. [Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c838/26FZBfKk932). 
 <span style="color:red">**(CCF A)**</span>
 
 - <span style="color:blue">[ICDE 2025]</span> 
-Liwei Deng, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search. 
+Liwei Deng, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. [Towards Accurate Distance Estimation for Distribution-Aware c-ANN Search](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c380/26FZASdBxBu). 
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/Ur-Eine/distribution-aware-LSH?label=LSH%20Stars&style=social)](https://github.com/Ur-Eine/distribution-aware-LSH)
 
 - <span style="color:blue">[WWW 2025]</span> 
-**Ximu Zeng**, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. [LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search](https://arxiv.org/abs/2503.23409). 
+**Ximu Zeng**, Liwei Deng, Penghao Chen, Xu Chen, Han Su, Kai Zheng. [LIRA: A Learning-based Query-aware Partition Framework for Large-scale ANN Search](https://dl.acm.org/doi/10.1145/3696410.3714633). 
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/SimoneZeng/LIRA-ANN-search?label=LIRA%20Stars&style=social)](https://github.com/SimoneZeng/LIRA-ANN-search)
 
 - <span style="color:blue">[VLDB 2025]</span> 
-Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. [Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search](https://arxiv.org/abs/2411.17229). 
+Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. [Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.14778/3712221.3712244). 
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/Ur-Eine/DADE?label=DADE%20Stars&style=social)](https://github.com/Ur-Eine/DADE)
 
 - <span style="color:blue">[DASFAA 2024]</span> 
