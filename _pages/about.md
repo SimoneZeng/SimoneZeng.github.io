@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a PhD student admitted in 2024 at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
+I'm currently a PhD student in the second year at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
 Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
 
-My research interests include spatial-temporal data mining, spatial crowdsourcing, and vector approximate nearest neighbor search.
+My research interests include spatial-temporal data mining, high-dimensional vector approximate nearest neighbor search and spatial crowdsourcing.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
 - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
@@ -47,6 +48,8 @@ My research interests include spatial-temporal data mining, spatial crowdsourcin
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 **Selected Conference Papers**
+- <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, **Ximu Zeng**, Liwei Deng, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. 
+<span style="color:red">**(Core A, CCF B)**</span>
 
 - <span style="color:blue">[ICDE 2025]</span> 
 **Ximu Zeng**, Jianxing Lin, Liwei Deng, Yuchen Fang, Yan Zhao, Kai Zheng. [Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing](https://www.computer.org/csdl/proceedings-article/icde/2025/360300c838/26FZBfKk932). 
