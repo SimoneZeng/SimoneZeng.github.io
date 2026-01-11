@@ -26,6 +26,7 @@ My research interests include spatial-temporal data mining, high-dimensional vec
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
 - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
@@ -47,7 +48,10 @@ My research interests include spatial-temporal data mining, high-dimensional vec
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-**Selected Conference Papers**
+**Selected Papers**
+- <span style="color:blue">[TKDE]</span> Yuchen Fang, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, **Ximu Zeng**, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng. Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review.
+<span style="color:red">**(CCF A)**</span>
+
 - <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, **Ximu Zeng**, Liwei Deng, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. 
 <span style="color:red">**(Core A, CCF B)**</span>
 
