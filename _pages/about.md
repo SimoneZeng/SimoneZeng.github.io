@@ -26,11 +26,12 @@ My research interests include spatial-temporal data mining, high-dimensional vec
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper is accepted by VLDBJ.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
-- *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025. 
+<!-- - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
+- *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025.  -->
 
 # 📝 Publications 
 
@@ -49,7 +50,12 @@ My research interests include spatial-temporal data mining, high-dimensional vec
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 **Selected Papers**
-- <span style="color:blue">[TKDE]</span> Yuchen Fang, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, **Ximu Zeng**, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng. Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review.
+
+- <span style="color:blue">[VLDBJ]</span> 
+Xu Chen, **Ximu Zeng**, Yuze Wang, Zibo Liang, Kai Zeng, Han Su, Kai Zheng. [LEON+: towards robust ML-aided query optimization Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing](https://link.springer.com/article/10.1007/s00778-026-00973-9). 
+<span style="color:red">**(CCF A)**</span>
+
+- <span style="color:blue">[TKDE]</span> Yuchen Fang, Hao Miao, Yuxuan Liang, Liwei Deng, Yue Cui, **Ximu Zeng**, Yuyang Xia, Yan Zhao, Torben Bach Pedersen, Christian S Jensen, Xiaofang Zhou, Kai Zheng. [Unraveling Spatio-Temporal Foundation Models via the Pipeline Lens: A Comprehensive Review](https://ieeexplore.ieee.org/abstract/document/11341909).
 <span style="color:red">**(CCF A)**</span>
 
 - <span style="color:blue">[CIKM 2025]</span> Yongfu Fan, Jin Chen, Yangzixuan Jiao, **Ximu Zeng**, Liwei Deng, Kai Zheng. Enhancing Multi-Behavior Sequential Recommenders with Behavior-Aware Regularization. 
