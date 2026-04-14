@@ -30,8 +30,8 @@ My research interests include spatial-temporal data mining, high-dimensional vec
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE.
 - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
 - *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
-<!-- - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025. 
-- *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025.  -->
+<!-- - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025.   -->
+<!-- - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025.  -->
 
 # 📝 Publications 
 
