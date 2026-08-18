@@ -109,9 +109,10 @@ Yupeng Diao, Yiteng Su, **Ximu Zeng**, Xu Chen, Shuncheng Liu, and Han Su. [Astr
 # 🎖 Honors and Awards
 - 2024 Academic Seedling Award, 5%, UESTC
 - 2022 Outstanding Undergraduate, Chongqing Municipal Education Commission
-- 2021 Merit Student, Chongqing Municipal Education Commission
 - 2021 National Scholarship
 
 
-# ⏳ Professional Services
+# ⏳ Services
+- 2027: KDD, WSDM
+- 2026: KDD
 - 2025: WWW
