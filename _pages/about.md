@@ -29,10 +29,6 @@ My research interests include vector databases, AI4DB and spatio-temporal data m
 - *2026.09*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2027.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by VLDBJ.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE.
-<!-- - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
-- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025.  -->
-<!-- - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025.   -->
-<!-- - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025.  -->
 
 # 📝 Publications 
 

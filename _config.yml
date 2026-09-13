@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Ximu Zeng"
 # description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-description              : "Ximu Zeng's Homepage"
+description              : "Ximu's Homepage"
 repository               : "SimoneZeng/SimoneZeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   name             : "Ximu Zeng"
   avatar           : "images/my_square_avatar.png"
   bio              : "PhD Student, UESTC"
-  location         : "ChengDu, China"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=D_3XDcAAAAAJ"
