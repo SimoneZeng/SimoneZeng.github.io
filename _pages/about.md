@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a PhD student in the second year at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
+I'm currently a PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
 Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
 
-My research interests include spatial-temporal data mining, high-dimensional vector approximate nearest neighbor search and spatial crowdsourcing.
+My research interests include vector databases, AI4DB and spatio-temporal data management.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2027.
 - *2026.04*: &nbsp;🎉🎉 One paper is accepted by VLDBJ.
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted by TKDE.
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
-- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025. 
+<!-- - *2025.08*: &nbsp;🎉🎉 One paper is accepted by CIKM 2025.
+- *2025.03*: &nbsp;🎉🎉 Two papers are accepted by ICDE 2025.  -->
 <!-- - *2025.01*: &nbsp;🎉🎉 One paper is accepted by WWW 2025.   -->
 <!-- - *2024.11*: &nbsp;🎉🎉 One paper is accepted by VLDB 2025.  -->
 
@@ -50,6 +51,14 @@ My research interests include spatial-temporal data mining, high-dimensional vec
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 **Selected Papers**
+
+- <span style="color:blue">[ICDE 2027]</span> 
+**Ximu Zeng**, Xinjie Lin, Liwei Deng, Shiyuan Deng, Ran Xu, Han Su, Kai Zheng. D-LIRA: Budgeted Maintenance for Learned Partition Pruning in Dynamic ANN Search. 
+<span style="color:red">**(CCF A)**</span>
+
+- <span style="color:blue">[ICDE 2027]</span> 
+Yupu Zhang, Liwei Deng, Hao Miao, **Ximu Zeng**, Yan Zhao, Kai Zheng. TrajDC: Efficient Trajectory Similarity Learning with Length-Adaptive Dataset Condensation. 
+<span style="color:red">**(CCF A)**</span>
 
 - <span style="color:blue">[VLDBJ]</span> 
 Xu Chen, **Ximu Zeng**, Yuze Wang, Zibo Liang, Kai Zeng, Han Su, Kai Zheng. [LEON+: towards robust ML-aided query optimization Optimizing Multi-Center Collaboration for Task Assignment in Spatial Crowdsoucing](https://link.springer.com/article/10.1007/s00778-026-00973-9). 
@@ -77,24 +86,9 @@ Liwei Deng, Penghao Chen, **Ximu Zeng**, Yuchen Fang, Jin Chen, Yan Zhao. [Towar
 Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. [Efficient Data-aware Distance Comparison Operations for High-Dimensional Approximate Nearest Neighbor Search](https://dl.acm.org/doi/10.14778/3712221.3712244). 
 <span style="color:red">**(CCF A)**</span>  [![Stars](https://img.shields.io/github/stars/Ur-Eine/DADE?label=DADE%20Stars&style=social)](https://github.com/Ur-Eine/DADE)
 
-- <span style="color:blue">[DASFAA 2024]</span> 
-Rui Hu, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Quanlin Yu, Peicong Wu, Han Su, and Kai Zheng. [Imitation Learning Decision with Driving Style Tuning for Personalized Autonomous Driving](https://dl.acm.org/doi/abs/10.1007/978-981-97-5575-2_15). 
-<span style="color:red">**(CCF B)**</span>
 
 - <span style="color:blue">[CIKM 2023]</span> 
 **Ximu Zeng**, Quanlin Yu, Shuncheng Liu, Yuyang Xia, Han Su, and Kai Zheng. [Target-Oriented Maneuver Decision for Autonomous Vehicle: A Rule-Aided Reinforcement Learning Framework](https://dl.acm.org/doi/abs/10.1145/3583780.3615072). <span style="color:red">**(Core A, CCF B)**</span>
-
-- <span style="color:blue">[DASFAA 2023]</span> 
-Weijie Lian, Yuze Wang, **Ximu Zeng**, Shuncheng Liu, Yuyang Xia, Huiyong Tang, and Han Su. [EGL: Efficient Graph Learning with Safety Constrains for Heterogeneous Trajectory Prediction](https://dl.acm.org/doi/abs/10.1007/978-3-031-35415-1_5). 
-<span style="color:red">**(CCF B)**</span>
-
-- <span style="color:blue">[DASFAA 2022]</span> 
-Xu Chen, **Ximu Zeng**, Shuncheng Liu, Zhi Xu, Yuyang Xia, Ruyi Lai, and Han Su. [TSummary: A Traffic Summarization System Using Semantic Words](https://dl.acm.org/doi/abs/10.1007/978-3-031-11217-1_19). 
-<span style="color:red">**(CCF B)**</span>
-
-- <span style="color:blue">[DASFAA 2022]</span> 
-Yupeng Diao, Yiteng Su, **Ximu Zeng**, Xu Chen, Shuncheng Liu, and Han Su. [Astral: An Autoencoder-Based Model for Pedestrian Trajectory Prediction of Variable-Length](https://dl.acm.org/doi/abs/10.1007/978-3-031-11217-1_16). 
-<span style="color:red">**(CCF B)**</span>
 
 
 # 📖 Educations
@@ -105,14 +99,13 @@ Yupeng Diao, Yiteng Su, **Ximu Zeng**, Xu Chen, Shuncheng Liu, and Han Su. [Astr
 - *Sep,2024 - present*, University of Electronic Science and Technology of China, Ph.D
   - Computer Science and Technology, School of Computer Science and Engineering
 
-
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - 2024 Academic Seedling Award, 5%, UESTC
 - 2022 Outstanding Undergraduate, Chongqing Municipal Education Commission
-- 2021 National Scholarship
+- 2021 National Scholarship -->
 
 
 # ⏳ Services
-- 2027: KDD, WSDM
+- 2027: KDD, WWW, WSDM
 - 2026: KDD
 - 2025: WWW
