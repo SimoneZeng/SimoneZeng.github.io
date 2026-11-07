@@ -17,10 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a PhD student at [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
-Previously, I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
+I'm currently a third-year Ph.D. student at the [School of Computer Science and Engineering](https://www.scse.uestc.edu.cn/), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), supervised by Prof. [Kai Zheng](https://zheng-kai.com/).
+From 2025 to 2026, I was a visiting student at [Nanyang Technological University](https://www.ntu.edu.sg/) in Singapore, where I had the opportunity to work with Prof. [Cheng LONG](https://personal.ntu.edu.sg/c.long/index.html).
+I received my B.E. degree from Chongqing University of Posts and Telecommunications in 2022. 
 
-My research interests include vector databases, AI4DB and spatio-temporal data management.
+My research interests include vector databases, AI4DB, and spatio-temporal data management. I am open to collaborations and visiting opportunities. Feel free to contact me if you are interested in my research.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -102,6 +103,6 @@ Liwei Deng, Penghao Chen, **Ximu Zeng**, Tianfu Wang, Yan Zhao, and Kai Zheng. [
 
 
 # ⏳ Services
-- 2027: KDD, WWW, WSDM
-- 2026: KDD
+- 2027: SIGKDD, WWW
+- 2026: SIGKDD, WSDM
 - 2025: WWW
